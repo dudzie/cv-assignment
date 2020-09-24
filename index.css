@@ -1,0 +1,129 @@
+
+.formzzz{
+    margin-left: 30%;
+}
+.fo{
+    margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 35px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+#header
+{
+    position: fixed;    
+    height:60px;
+    width: 100%;
+    background-color: rgb(93, 134, 150);
+    margin-bottom: 10px
+    }
+
+    #name {
+        
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+    }
+
+
+.firstname{
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.firstname .n{
+    width: 50%;
+    height: 30px;
+    margin-left: 20px;
+
+}
+
+
+.lastname{
+    display: flex;
+}
+
+.lastname .l{
+    width: 50%;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.middlename{
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.middlename .m{
+    width: 50%;
+    height: 30px;
+    margin-left: 3px;
+}
+
+.address{
+    display: flex;
+    margin-bottom: 2%;
+}
+.address .a{
+    width: 50%;
+    height: 30px;
+    margin-left: 23px;
+}
+
+.gender{
+    margin-bottom: 2%;
+}
+
+.Email{
+    margin-bottom: 2%;
+}
+.Email >input{
+    width: 50%;
+    height: 30px;
+    margin-left: 34px;
+}
+
+.Phone {
+    margin-bottom: 2%;
+
+}
+
+.Phone >input{
+    width: 50%;
+    height: 30px;
+    margin-left: 50px;
+}
+
+
+
+.SubmitBtn{
+    background: transparent;
+    color: black;
+    border: 2px solid black;
+    width: 90px;
+    height: 50px;
+    margin-left: 25%;
+}
